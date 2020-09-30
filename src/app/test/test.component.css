@@ -1,0 +1,18 @@
+
+#content h3{
+    padding-left: 0px;
+}
+#content {
+    margin: 0 auto;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    background-color: burlywood;
+    color: black;
+   
+}
+
+#content input{
+    height: 25px;
+    text-anchor: middle;
+}
